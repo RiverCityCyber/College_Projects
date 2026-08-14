@@ -3,7 +3,6 @@
  * Course:    COP3503, 202310
  * Project #: 4
  * Title:     Basic GUI Survey
- * Due Date:  5/3/2023
  * 
  * Generates a GUI with 14 different input fields 
  * and 18 text/title boxes
